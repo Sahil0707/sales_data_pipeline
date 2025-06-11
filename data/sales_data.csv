@@ -1,0 +1,6 @@
+OrderID,OrderDate,ProductName,Category,Quantity,UnitPrice
+1,2024-05-01,Wireless Mouse,Electronics,3,10.5
+2,2024-05-02,Keyboard,Electronics,2,15
+3,2024-05-03,Coffee Mug,Home,5,8
+4,2024-05-04,Notebook,Stationery,4,2
+5,2024-05-05,Water Bottle,Home,6,5
